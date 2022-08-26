@@ -1,7 +1,7 @@
 package com.lightbend.akkassembly
 
-import akka.stream.scaladsl.Sink
 import akka.actor.ActorSystem
+import akka.stream.scaladsl.Sink
 
 import scala.concurrent.Future
 
